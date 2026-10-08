@@ -1,1 +1,2 @@
 Here we will learn to push the folder.
+Here we will learn to upload new changes to git.
